@@ -22,11 +22,6 @@ This repository contains the core codebase, including the code necessary to self
 
 
 **Geleverde versie:** 1.0.0.rc.3~ynh1
-
-## Schermafdrukken
-
-![Schermafdrukken van Saltcorn](./doc/screenshots/example.jpg)
-
 ## Documentatie en bronnen
 
 - Officiele website van de app: <https://saltcorn.com/>

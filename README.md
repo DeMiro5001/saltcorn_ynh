@@ -22,11 +22,6 @@ This repository contains the core codebase, including the code necessary to self
 
 
 **Shipped version:** 1.0.0.rc.3~ynh1
-
-## Screenshots
-
-![Screenshot of Saltcorn](./doc/screenshots/example.jpg)
-
 ## Documentation and resources
 
 - Official app website: <https://saltcorn.com/>

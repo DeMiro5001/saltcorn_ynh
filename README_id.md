@@ -22,11 +22,6 @@ This repository contains the core codebase, including the code necessary to self
 
 
 **Versi terkirim:** 1.0.0.rc.3~ynh1
-
-## Tangkapan Layar
-
-![Tangkapan Layar pada Saltcorn](./doc/screenshots/example.jpg)
-
 ## Dokumentasi dan sumber daya
 
 - Website aplikasi resmi: <https://saltcorn.com/>

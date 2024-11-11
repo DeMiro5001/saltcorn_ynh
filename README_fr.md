@@ -16,15 +16,12 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Ceci est une fausse description des fonctionalités de l'app
+Saltcorn est un générateur d'applications de base de données open source extensible sans code. Utilisez-le pour construire des applications de base de données web et mobiles avec des vues, des types de données, des mises en page et des actions flexibles.
+
+Ce référentiel contient la base de code principale, y compris le code nécessaire pour héberger une instance en propre et pour héberger une instance multi-locataire.
 
 
 **Version incluse :** 1.0.0.rc.3~ynh1
-
-## Captures d’écran
-
-![Capture d’écran de Saltcorn](./doc/screenshots/example.jpg)
-
 ## Documentations et ressources
 
 - Site officiel de l’app : <https://saltcorn.com/>

@@ -22,11 +22,6 @@ This repository contains the core codebase, including the code necessary to self
 
 
 **Versión proporcionada:** 1.0.0.rc.3~ynh1
-
-## Capturas de pantalla
-
-![Captura de pantalla de Saltcorn](./doc/screenshots/example.jpg)
-
 ## Documentación e recursos
 
 - Web oficial da app: <https://saltcorn.com/>

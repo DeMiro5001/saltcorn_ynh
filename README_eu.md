@@ -22,11 +22,6 @@ This repository contains the core codebase, including the code necessary to self
 
 
 **Paketatutako bertsioa:** 1.0.0.rc.3~ynh1
-
-## Pantaila-argazkiak
-
-![Saltcorn(r)en pantaila-argazkia](./doc/screenshots/example.jpg)
-
 ## Dokumentazioa eta baliabideak
 
 - Aplikazioaren webgune ofiziala: <https://saltcorn.com/>
