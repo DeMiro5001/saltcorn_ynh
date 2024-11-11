@@ -34,8 +34,6 @@ ynh_config_add --template="saltcorn" --destination="$install_dir/.config/.saltco
 chmod 400 "$install_dir/.config/.saltcorn"
 chown "$app:$app" "$install_dir/.config/.saltcorn"
 
-ynh_install_nodejs
-
 pushd $install_dir
   ynh_nodejs_install
   npx saltcorn-install -y
