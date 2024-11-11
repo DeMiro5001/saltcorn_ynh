@@ -1,0 +1,9 @@
+{
+   "host":"localhost",
+   "port":5432,
+   "database":"__DB_NAME__",
+   "user":"__DB_USER__",
+   "password":"__DB_PWD__",
+   "session_secret":"__SECRET__",
+   "multi_tenant":true
+}
