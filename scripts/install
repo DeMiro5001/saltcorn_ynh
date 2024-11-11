@@ -37,7 +37,7 @@ chown "$app:$app" "$install_dir/.config/.saltcorn"
 ynh_install_nodejs
 
 pushd $install_dir
-  ynh_use_nodejs
+  ynh_nodejs_install
   npx saltcorn-install -y
 popd
 
