@@ -1,15 +1,18 @@
 [Unit]
-Description=Small description of the service
+Description=No-code application builder
 After=network.target
+Documentation=https://saltcorn.com
 
 [Service]
-Type=simple
+Type=notify
 User=__APP__
 Group=__APP__
 WorkingDirectory=__INSTALL_DIR__/
-ExecStart=__INSTALL_DIR__/script
+ExecStart=__INSTALL_DIR__/.local/bin/saltcorn serve -p __PORT__
 StandardOutput=append:/var/log/__APP__/__APP__.log
 StandardError=inherit
+Environment="NODE_ENV=production"
+Restart=always
 
 ### Depending on specificities of your service/app, you may need to tweak these
 ### .. but this should be a good baseline
