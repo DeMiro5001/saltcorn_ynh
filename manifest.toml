@@ -4,8 +4,8 @@ packaging_format = 2
 
 id = "saltcorn"
 name = "Saltcorn"
-description.en = "Free and open source no-code application builder"
-description.fr = "Constructeur d'applications sans code, libre et open source"
+description.en = "No-code application builder"
+description.fr = "Constructeur d'applications sans code"
 
 version = "1.0.0.rc.3~ynh1"
 
