@@ -22,6 +22,11 @@ This repository contains the core codebase, including the code necessary to self
 
 
 **Versión actual:** 1.0.0.rc.3~ynh1
+
+## Capturas
+
+![Captura de Saltcorn](./doc/screenshots/builder_smaller.png)
+
 ## Documentaciones y recursos
 
 - Sitio web oficial: <https://saltcorn.com/>

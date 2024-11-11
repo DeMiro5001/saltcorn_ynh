@@ -22,6 +22,11 @@ This repository contains the core codebase, including the code necessary to self
 
 
 **Поставляемая версия:** 1.0.0.rc.3~ynh1
+
+## Снимки экрана
+
+![Снимок экрана Saltcorn](./doc/screenshots/builder_smaller.png)
+
 ## Документация и ресурсы
 
 - Официальный веб-сайт приложения: <https://saltcorn.com/>

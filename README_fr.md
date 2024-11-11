@@ -22,6 +22,11 @@ Ce référentiel contient la base de code principale, y compris le code nécessa
 
 
 **Version incluse :** 1.0.0.rc.3~ynh1
+
+## Captures d’écran
+
+![Capture d’écran de Saltcorn](./doc/screenshots/builder_smaller.png)
+
 ## Documentations et ressources
 
 - Site officiel de l’app : <https://saltcorn.com/>

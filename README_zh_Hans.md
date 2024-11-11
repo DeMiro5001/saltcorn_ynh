@@ -22,6 +22,11 @@ This repository contains the core codebase, including the code necessary to self
 
 
 **分发版本：** 1.0.0.rc.3~ynh1
+
+## 截图
+
+![Saltcorn 的截图](./doc/screenshots/builder_smaller.png)
+
 ## 文档与资源
 
 - 官方应用网站： <https://saltcorn.com/>
