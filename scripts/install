@@ -37,12 +37,11 @@ chown "$app:$app" "$install_dir/.config/.saltcorn"
 pushd $install_dir
   ynh_nodejs_install
 
-  mkdir -p .config
-  npm config set prefix .local
-  echo 'export PATH=$install_dir/.local/bin:$PATH' >> $install_dir/.bashrc
-  source $install_dir/.bashrc
-
-  npm install -y @saltcorn/cli
+  ynh_exec_as_app mkdir -p .config
+  ynh_exec_as_app npm config set prefix .local
+  ynh_exec_as_app echo 'export PATH=$install_dir/.local/bin:$PATH' >> $install_dir/.bashrc
+  ynh_exec_as_app source $install_dir/.bashrc
+  ynh_exec_as_app npm install -g -y @saltcorn/cli
 
 popd
 
